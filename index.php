@@ -112,7 +112,7 @@
 <script src="libs/js/angular.min.js"></script>
 
 <!-- include Controller -->
-<script src="js/productsCtrl.js">
+<script src="js/productsCtrl.js"></script>
 
 <script>
 // jquery script
