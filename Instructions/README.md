@@ -33,5 +33,3 @@ Setup Instructions:
 8. Store the project file in XAMPP htdocs directory (If downloaded on Mac: Applications/XAMPP/htdocs)
 
 9. Reach project on localhost/{projectname}
-
-10. This is a test!!!

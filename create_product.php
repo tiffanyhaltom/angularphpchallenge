@@ -25,5 +25,6 @@ if($product->create()){
 
 // if unable to create the product, tell the user
 else{
-	echo "THIS IS A TEST!!";
+	echo "Unable to create product.";
+}
 ?>
